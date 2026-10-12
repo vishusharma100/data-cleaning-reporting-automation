@@ -1,0 +1,11 @@
+Metric,Value
+rows_before,664.0
+rows_after,645.0
+duplicate_rows_removed,14.0
+missing_cells_before_cleaning,41.0
+missing_cells_after_cleaning,0.0
+invalid_quantity_records,5.0
+invalid_unit_price_records,0.0
+invalid_discount_records,0.0
+rows_removed_total,19.0
+data_completeness_after_pct,100.0
